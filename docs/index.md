@@ -12,3 +12,5 @@
 4. GitHub Pages публикует артефакт сборки.
 
 Адрес будущего сайта: `https://Lyubagg4.github.io/devops-docs/`.
+
+См. также [дополнительные материалы](missing-page.md).
